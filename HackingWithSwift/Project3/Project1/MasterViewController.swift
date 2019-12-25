@@ -2,7 +2,7 @@
 //  MasterViewController.swift
 //  Project3
 //
-//  Created by Renan Martins on 10/5/15.
+//  Created by nbkhope on 10/5/15.
 //  Copyright © 2015 nbkdev. All rights reserved.
 //
 
